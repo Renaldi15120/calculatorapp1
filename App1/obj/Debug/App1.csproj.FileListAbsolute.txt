@@ -1,0 +1,9 @@
+D:\AMIKOM\Semester 3\sabtu\Praktikum\Tugas 1\App1\App1\bin\Debug\App1.exe.config
+D:\AMIKOM\Semester 3\sabtu\Praktikum\Tugas 1\App1\App1\bin\Debug\App1.exe
+D:\AMIKOM\Semester 3\sabtu\Praktikum\Tugas 1\App1\App1\bin\Debug\App1.pdb
+D:\AMIKOM\Semester 3\sabtu\Praktikum\Tugas 1\App1\App1\obj\Debug\App1.csprojResolveAssemblyReference.cache
+D:\AMIKOM\Semester 3\sabtu\Praktikum\Tugas 1\App1\App1\obj\Debug\App1.Form1.resources
+D:\AMIKOM\Semester 3\sabtu\Praktikum\Tugas 1\App1\App1\obj\Debug\App1.Properties.Resources.resources
+D:\AMIKOM\Semester 3\sabtu\Praktikum\Tugas 1\App1\App1\obj\Debug\App1.csproj.GenerateResource.Cache
+D:\AMIKOM\Semester 3\sabtu\Praktikum\Tugas 1\App1\App1\obj\Debug\App1.exe
+D:\AMIKOM\Semester 3\sabtu\Praktikum\Tugas 1\App1\App1\obj\Debug\App1.pdb
